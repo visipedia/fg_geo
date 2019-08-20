@@ -1,4 +1,4 @@
-![Banner](https://rawgit.com/visipedia/fg_geo/master/assets/banner.png)
+![alt text](https://raw.githubusercontent.com/visipedia/fg_geo/master/assets/banner.png)
 
 # Fine Grained Geolocation Datasets
 
