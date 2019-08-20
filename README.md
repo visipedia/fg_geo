@@ -14,7 +14,7 @@ If you use data from this repository in publication, please cite:
 }
 ```
 
-## iNaturalist with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/inat2017_file_name_to_geo.csv))
+## iNaturalist with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/inat2017_file_name_to_geo.csv.zip))
 
 We provide a complementary file for iNaturalist competition 2017 dataset to enable people to construct a fine grained geolocation datasets. The complementary file contains:
 
@@ -22,7 +22,7 @@ We provide a complementary file for iNaturalist competition 2017 dataset to enab
 2. latitude: of where that image was taken,
 3. longitude: of where that image was taken.
 
-## YFCC100M with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/yfcc100m_geolocated_inat2017species.csv))
+## YFCC100M with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/yfcc100m_geolocated_inat2017species.csv.zip))
 
 The YFCC100M dataset contains 100 millions Flickr images and videos with creative commons licenses. We release a set of 36,146 YFCC100M images that had Flickr tags that we identified as corresponding to one of the labels in iNaturalist 2017 competition data above. The 36,146 images were sampled from a larger pool of candidate images as described in the paper above. Specifically:
 
