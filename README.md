@@ -16,7 +16,7 @@ If you use data from this repository in publication, please cite:
 
 ## iNaturalist with Geolocation ([download](https://github.com/visipedia/inat_comp/tree/master/2017#updates))
 
-We collaborted with authors in [Presence-Only Geographical Priors for Fine-Grained Image Classification](https://arxiv.org/abs/1906.05272) to release the meta data for iNaturalist competition 2017 dataset to enable people to construct a fine grained geolocation datasets. The meta data locates inside the [competition page](https://github.com/visipedia/inat_comp/tree/master/2017) and contains:
+We collaborted with authors in [Presence-Only Geographical Priors for Fine-Grained Image Classification](https://arxiv.org/abs/1906.05272) to release the meta data for iNaturalist competition 2017 dataset to enable people to construct a fine grained geolocation datasets. The meta data was added to the original competition page and contains:
 
 1. id: image id in iNaturalist 2017 competition dataset,
 2. lat: latitude of where the image was taken,
