@@ -14,13 +14,15 @@ If you use data from this repository in publication, please cite:
 }
 ```
 
-## iNaturalist with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/inat2017_file_name_to_geo.csv.zip))
+## iNaturalist with Geolocation ([download](https://github.com/visipedia/inat_comp/tree/master/2017#updates))
 
-We provide a complementary file for iNaturalist competition 2017 dataset to enable people to construct a fine grained geolocation datasets. The complementary file contains:
+We collaborted with authors in [Presence-Only Geographical Priors for Fine-Grained Image Classification](https://arxiv.org/abs/1906.05272) to release the meta data for iNaturalist competition 2017 dataset to enable people to construct a fine grained geolocation datasets. The meta data locates inside the [competition page](https://github.com/visipedia/inat_comp/tree/master/2017) and contains:
 
-1. file_name: the file_name of an image downloaded from the iNaturalist data.
-2. latitude: of where that image was taken,
-3. longitude: of where that image was taken.
+1. id: image id in iNaturalist 2017 competition dataset,
+2. lat: latitude of where the image was taken,
+3. lon: longitude of where the image was taken,
+4. date: date of when the image was taken,
+5. user_id: user id of who owns the image.
 
 ## YFCC100M with Geolocation ([download](https://github.com/visipedia/fg_geo/blob/master/data/yfcc100m_geolocated_inat2017species.csv.zip))
 
