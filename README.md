@@ -18,7 +18,7 @@ If you use data from this repository in publication, please cite:
 
 The meta data which contains geolocation as well as date information have been released on the original iNaturalist competition github page. Specifically, the data contains:
 
-1. id: image id in iNaturalist 2017 competition dataset,
+1. id: image id in iNaturalist competition dataset,
 2. lat: latitude of where the image was taken,
 3. lon: longitude of where the image was taken,
 4. date: date of when the image was taken,
